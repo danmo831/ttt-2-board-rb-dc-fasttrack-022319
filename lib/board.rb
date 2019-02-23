@@ -1,6 +1,6 @@
 # Define the variable board below.
 
-board 
+def board 
 row = [" ", " ", " "]
 
 row[0]
